@@ -4,4 +4,5 @@ You can find here:
 * A beamer template with both an archive `LASTIG_beamer_template_25092025.zip` and the raw sources.
 
 Slight discrepancies exist between both versions, in terms of layout and font, but not a big deal.
+
 Feel free to improve both the PPT and the Beamer templates.
